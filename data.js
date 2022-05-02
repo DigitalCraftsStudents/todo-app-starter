@@ -10,7 +10,7 @@ const todoItems = [
     completed: true
   },
   {
-    id: 3,
+    id: 10,
     title: "Learn JS",
     completed: true
   },
